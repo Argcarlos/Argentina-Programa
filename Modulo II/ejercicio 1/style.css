@@ -1,0 +1,14 @@
+body {
+    display: grid;
+    min-height: 100vh;
+    place-items: center;
+    font-size: 1.5rem;
+  }
+  
+h1, h2 {
+    font-family: Lato;
+  }
+
+h2 {
+    text-align: center;
+  }
