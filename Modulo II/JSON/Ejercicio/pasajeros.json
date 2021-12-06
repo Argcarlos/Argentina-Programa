@@ -1,0 +1,55 @@
+[{
+    "nombre": "Laura",
+    "apellido": "Rodriguez",
+    "edad": 24,
+    "precioAsiento": 500.25,
+    "pagado": true,
+    "asiento": {
+        "numero": 13,
+        "letra": "F",
+        "cargador": false
+    },
+    "historial": [
+        {
+            "salida": "Nueva York",
+            "destino": "Chicago",
+            "fecha": "03/12/2021"
+        },
+
+        {
+            "salida": "Argentina",
+            "destino": "Brasil",
+            "fecha": "09/12/2021"
+        }
+
+
+    ] 
+},
+
+{
+    "nombre": "Pedro",
+    "apellido": "Sanchez",
+    "edad": 26,
+    "precioAsiento": 600.25,
+    "pagado": true,
+    "asiento": {
+        "numero": 23,
+        "letra": "A",
+        "cargador": true
+    },
+    "historial": [
+        {
+            "salida": "Nueva York",
+            "destino": "Chicago",
+            "fecha": "05/12/2021"
+        },
+
+        {
+            "salida": "Argentina",
+            "destino": "Brasil",
+            "fecha": "10/12/2021"
+        }
+
+
+    ] 
+}]
