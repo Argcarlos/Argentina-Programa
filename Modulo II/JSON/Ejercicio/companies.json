@@ -1,0 +1,20 @@
+[{
+    "name": "LATAM",
+    "Country": "Chile",
+    "OneWorld": true,
+    "numberOfEmployees": 1000
+},
+{
+    "name": "Iberia",
+    "Country": "España",
+    "OneWorld": true,
+    "numberOfEmployees": 500
+},
+{
+    "name": "Aerolineas Argentinas",
+    "Country": "Argentina",
+    "OneWorld": false,
+    "numberOfEmployees": 800
+}
+
+]
