@@ -1,3 +1,3 @@
-let nombre: string = "Carlos";
-let message: string = `Mi nombre es ${nombre}.Soy nuevo en Typescript.`;
+let firstName: string = "Carlos";
+let message: string = `My name is ${firstName}. I am new in Typescript.`;
 console.log(message);

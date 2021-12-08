@@ -1,3 +1,3 @@
-var nombre = "Carlos";
-var message = "Mi nombre es ".concat(nombre, ".Soy nuevo en Typescript.");
+var firstName = "Carlos";
+var message = "My name is ".concat(firstName, ". I am new in Typescript.");
 console.log(message);
