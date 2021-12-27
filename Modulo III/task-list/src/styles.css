@@ -15,6 +15,33 @@
     border-radius: 5px;
 }
 
+.btn {
+    display: inline-block;
+    background: #000;
+    color: #fff;
+    border: none;
+    margin: 5px;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 15px;
+}
+
+.btn:focus {
+    outline: none;
+}
+
+.btn:active {
+    transform: scale(0.98);
+}
+
+.btn-block {
+    display: block;
+    width: 100%;
+}
+
 h1 {
     color:red;
     font-family: 'Poppins';
