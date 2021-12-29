@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+* body {
+    background-color: #D6E5FA;
+    padding: 10px;
+}
+
+h1, h2, h3 {
+    color: rgb(62, 62, 83);
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.img {
+    padding-bottom: 10px;
+    width: 10%;
+    height: 20%;
+}
+

@@ -1,0 +1,33 @@
+{
+      
+        "name": "Carlos Adrián Quevedo",
+        "image": "../assets/img/IMG_2712-modified.png",
+        "position": "Chemical Engineer",
+
+        "Edu1": {
+            "title": "Certificate of High Specialization in Occupational Health and Safety.",
+            "School": "Instituto Peruano de Asuntos Públicos, Política y Gobierno",
+            "url": "https://ipappg.edu.pe/",
+            "place": "Lima",
+            "country": "Perú",
+            "year": 2019 
+        },
+
+        "Edu2":{
+            "title": "Degree of Chemical Engineer.",
+            "School": "Universidad Nacional de San Antonio Abad del Cusco",
+            "place": "Cusco",
+            "country": "Perú",
+            "year": 2016 
+        },
+        "Edu3":{
+            "title": "Diploma of Senior Technician in Foods Industries.",
+            "School": "Universidad Tecnológica Nacional",
+            "place": "San Francisco, Córdoba",
+            "country": "Argentina",
+            "year": 2008 
+        }
+    
+      
+    
+  }
