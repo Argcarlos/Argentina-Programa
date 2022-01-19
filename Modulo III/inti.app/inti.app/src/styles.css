@@ -1,18 +1,52 @@
-/* You can add global styles to this file, and also import other style files */
-* body {
-    background-color: #D6E5FA;
-    padding: 10px;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Roboto:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+
+body {
+      background-color: #EAF6F6;
+    }
+h1 {
+    color: #66BFBf;
+    font-size: 50px;
+    font-family: "Roboto";
+
 }
 
-h1, h2, h3 {
-    color: rgb(62, 62, 83);
-    font-size: 20px;
-    font-family: 'Courier New', Courier, monospace;
+h2 {
+    color: #93FFD8;
+
 }
 
-.img {
-    padding-bottom: 10px;
-    width: 10%;
-    height: 20%;
+h3 {
+    color: #A6CF98;
+    font-family: 'sans-serif';
+
 }
+
+table {
+    padding-top: 10%;
+    table-layout: auto;
+    width: 100%;
+    border-spacing: 10px;
+}
+
+
+
+hr {
+      background-color: white;
+      align-content: center;
+      height: 0px;
+      /* top | right | bottom | left */
+      border-style: none;
+      border-top-style: dotted;
+      border-width: 5px;
+      border-color: grey;
+      width: 10%;
+      
+}
+
+.navbar {
+    left: 100%;
+}
+
+
 

@@ -1,11 +1,52 @@
-<div>
-    <img class="img" [src]="myPortfolio.image" alt="Profile">
-    
-    <h1>{{myPortfolio.name}}</h1>
-        <p><em>{{myPortfolio.position}}</em></p>
-        <p>A competent and experienced engineer with 15 years of experience in administration management in various fields.</p>
-    <hr>
-</div>
+
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">Login</a>
+          </div>
+          <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav">
+              <li class="active"><a href="#">Home</a></li>
+              <li><a href="#">Page 1</a></li>
+              <li><a href="#">Page 2</a></li>
+              <li><a href="#">Page 3</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+              <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+
+
+<section>
+    <div>
+        <table>
+            <td>
+                <img class="img" [src]="myPortfolio.image" alt="Profile">
+        
+            </td>
+            <td>
+                <h1>{{myPortfolio.name}}</h1>
+                <p><em>{{myPortfolio.position}}</em></p>
+                <p>A competent and experienced engineer with 15 years of experience in administration management in various fields.</p>
+            </td>
+        </table>
+        
+        
+        <hr>
+    </div>
+
+</section>
+
+
     
 
 
