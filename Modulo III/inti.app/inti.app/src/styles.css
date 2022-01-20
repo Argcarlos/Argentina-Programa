@@ -3,6 +3,7 @@
 
 body {
       background-color: #EAF6F6;
+
     }
 
 h1 {
@@ -70,6 +71,9 @@ hr {
 
 .img {
     background-color: #EAF6F6;
+    padding: 20px;
+    height: 200px;
+    width: 200px;
  
 }
 
