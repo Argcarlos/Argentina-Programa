@@ -8,6 +8,7 @@ import { FooterComponent } from './components/footer/footer.component';
 import { EducationComponent } from './components/education/education.component';
 import { AdditionalComponent } from './components/additional/additional.component';
 import {HttpClientModule} from '@angular/common/http';
+import { NavigationBarComponent } from './components/navigation-bar/navigation-bar.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import {HttpClientModule} from '@angular/common/http';
     HeaderComponent,
     FooterComponent,
     EducationComponent,
-    AdditionalComponent
+    AdditionalComponent,
+    NavigationBarComponent
   ],
   imports: [
     BrowserModule,
